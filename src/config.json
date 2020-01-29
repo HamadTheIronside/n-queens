@@ -1,0 +1,8 @@
+{
+    "backgroundImg": "chessBG.jpg",
+    "queenImg": "queen.png",
+    "brown": "brown.png",
+    "white": "white.png",
+    "blockSize": 10,
+    "n_count": 40
+}
